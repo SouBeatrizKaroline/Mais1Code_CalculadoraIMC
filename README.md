@@ -1,5 +1,7 @@
 # Mais1Code
 
+![preview](./imagem/readme/previa.png)
+
 > Calculadora de IMC
 
 Atividade feita durante o curso
