@@ -1,6 +1,6 @@
 # Mais1Code
 
-![preview](./imagem/readme/previa.png)
+![preview](./img/readme/previa.png)
 
 > Calculadora de IMC
 
